@@ -16,6 +16,7 @@ mdc: true
 
 Praktycznie dla Frontendowców
 
+
 ---
 layout: aboutme
 class: "text-left"
