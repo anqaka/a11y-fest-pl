@@ -464,6 +464,21 @@ li {
 * [ARIA Authoring Practice Guide - Patterns](https://www.w3.org/WAI/ARIA/apg/patterns/)
 * [CodePen Kitties](https://codepen.io/anqa/pen/eYbrjyp)
 
+---
+layout: center
+class: "text-center"
+---
+# Poznań A11y Meetup
+
+Serdecznie zapraszam na Meetup o Dostępności, który organizuję w Poznaniu
+
+Najbliższe spotkaniu już 26.10 w Poznaniu! (oficjalne informacje już wkrótce ;) )
+
+
+<a href="https://www.meetup.com/pl-PL/poznan-a11y-meetup/" target="_blank">Strona meetupu na Meetup.com</a>
+
+<a href="https://www.youtube.com/@SnowdogApps" target="_blank">Nagrania z poprzednich meetupów na YouTube</a>
+
 
 ---
 layout: thankyou
